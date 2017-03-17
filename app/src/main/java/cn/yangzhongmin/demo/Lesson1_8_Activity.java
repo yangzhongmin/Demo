@@ -12,6 +12,11 @@ import android.widget.AutoCompleteTextView;
 
 public class Lesson1_8_Activity extends Activity {
 
+    /**
+     * AutoCompleteTextView 是一个可自动动态匹配输入的文本框，只能匹配一次（一个字符串）
+     * 如百度的搜索框，当输入两个字符以后自动提示你可能要输入的内容
+     */
+
     private AutoCompleteTextView mAcTextView;
     private String[] resource={"beijing","shanghai","guangzhou","shenzhen","tianjin","chongqing",
     "beihai","shangqiu","guangxi"};

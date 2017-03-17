@@ -55,7 +55,7 @@ public class MainActivity extends Activity implements View.OnClickListener{
                 break;
             case R.id.btn_3:jumpToTarget(Lesson1_8_2_Activity.class);
                 break;
-            case R.id.btn_4:jumpToTarget(Lesson1_3_Activity.class);
+            case R.id.btn_4:jumpToTarget(Lesson1_9_Activity.class);
                 break;
             case R.id.btn_5:jumpToTarget(Lesson1_3_Activity.class);
                 break;

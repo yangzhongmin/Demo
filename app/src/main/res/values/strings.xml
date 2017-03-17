@@ -7,4 +7,7 @@
     <string name="hint_lesson1_8">请输入您要搜索的内容</string>
     <string name="lesson1_8_2">Lesson1_8_2 MultiAutoCompleteTextView</string>
     <string name="sendto">请输入收件人的邮箱</string>
+    <string name="lesson1_9">Lesson1_9_ToggleButton</string>
+    <string name="off">关</string>
+    <string name="on">开</string>
 </resources>

@@ -12,6 +12,11 @@ import android.widget.MultiAutoCompleteTextView;
 
 public class Lesson1_8_2_Activity extends Activity{
 
+    /**
+     * MultiAutoCompleteTextView 是一个实现动态匹配输入的文本框，并且可以多选匹配；
+     * 如邮箱的收件人栏可以使用它来实现。
+     */
+
     private MultiAutoCompleteTextView macTextView;
     private String[] resource = {"xiaoming","xiaohong","xiaohua","jacky","yoyo","jimmy","lisa","sharon"};
 
