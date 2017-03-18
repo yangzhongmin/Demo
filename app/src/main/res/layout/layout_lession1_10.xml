@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sex"
+        android:textSize="22sp"/>
+
+    <CheckBox
+        android:id="@+id/ckbx_man"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/man"
+        android:textSize="22sp"
+        android:checked="false"/>
+
+    <CheckBox
+        android:id="@+id/ckbx_woman"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/woman"
+        android:checked="false"
+        android:textSize="22sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/like"
+        android:textSize="22sp"/>
+
+    <CheckBox
+        android:id="@+id/ckbx_pingpang"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/pingpang"
+        android:textSize="22sp"
+        android:checked="false"/>
+
+    <CheckBox
+        android:id="@+id/ckbx_football"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/football"
+        android:textSize="22sp"
+        android:checked="false"/>
+
+    <CheckBox
+        android:id="@+id/ckbx_basketball"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/basketball"
+        android:textSize="22sp"
+        android:checked="false"/>
+
+</LinearLayout>

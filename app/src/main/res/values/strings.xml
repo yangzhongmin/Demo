@@ -10,4 +10,13 @@
     <string name="lesson1_9">Lesson1_9_ToggleButton</string>
     <string name="off">关</string>
     <string name="on">开</string>
+    <string name="lesson1_10">Lesson1_10_CheckBox</string>
+    <string name="lesson1_11">Lesson1_11_RadioGroup_RadioButton</string>
+    <string name="man">男</string>
+    <string name="woman">女</string>
+    <string name="sex">性别:</string>
+    <string name="like">爱好:</string>
+    <string name="pingpang">PingPang</string>
+    <string name="football">football</string>
+    <string name="basketball">basketball</string>
 </resources>

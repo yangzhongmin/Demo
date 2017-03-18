@@ -42,5 +42,15 @@
         android:layout_height="36dp"
         android:textSize="12sp"
         android:textColor="#000000"
-        android:text="@string/lesson1_3"/>
+        android:text="@string/lesson1_10"/>
+
+    <Button
+        android:id="@+id/btn_6"
+        android:layout_width="match_parent"
+        android:layout_height="36dp"
+        android:textSize="12sp"
+        android:textColor="#000000"
+        android:text="@string/lesson1_11"/>
+
+
 </LinearLayout>

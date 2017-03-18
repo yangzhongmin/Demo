@@ -20,6 +20,8 @@
         <activity android:name=".Lesson1_8_Activity" />
         <activity android:name=".Lesson1_8_2_Activity" />
         <activity android:name=".Lesson1_9_Activity" />
+        <activity android:name=".Lesson1_10_Activity" />
+        <activity android:name=".Lesson1_11_Activity" />
     </application>
 
 </manifest>
