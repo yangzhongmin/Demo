@@ -22,6 +22,8 @@
         <activity android:name=".Lesson1_9_Activity" />
         <activity android:name=".Lesson1_10_Activity" />
         <activity android:name=".Lesson1_11_Activity" />
+        <activity android:name=".Lesson1_18_Activity" />
+        <activity android:name=".ReturnDataActivity" />
     </application>
 
 </manifest>

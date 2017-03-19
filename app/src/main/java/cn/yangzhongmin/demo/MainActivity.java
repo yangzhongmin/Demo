@@ -19,6 +19,7 @@ public class MainActivity extends Activity implements View.OnClickListener{
     Button mBtn_4;
     Button mBtn_5;
     Button mBtn_6;
+    Button mBtn_7;
 
 
     @Override
@@ -38,6 +39,7 @@ public class MainActivity extends Activity implements View.OnClickListener{
         mBtn_4.setOnClickListener(this);
         mBtn_5.setOnClickListener(this);
         mBtn_6.setOnClickListener(this);
+        mBtn_7.setOnClickListener(this);
     }
 
     private void initView() {
@@ -47,6 +49,7 @@ public class MainActivity extends Activity implements View.OnClickListener{
         mBtn_4 = (Button) findViewById(R.id.btn_4);
         mBtn_5 = (Button) findViewById(R.id.btn_5);
         mBtn_6 = (Button) findViewById(R.id.btn_6);
+        mBtn_7 = (Button) findViewById(R.id.btn_7);
     }
 
     @Override
@@ -63,6 +66,8 @@ public class MainActivity extends Activity implements View.OnClickListener{
             case R.id.btn_5:jumpToTarget(Lesson1_10_Activity.class);
                 break;
             case R.id.btn_6:jumpToTarget(Lesson1_11_Activity.class);
+                break;
+            case R.id.btn_7:jumpToTarget(Lesson1_18_Activity.class);
                 break;
             default:
                 break;

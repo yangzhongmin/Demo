@@ -19,4 +19,8 @@
     <string name="pingpang">PingPang</string>
     <string name="football">football</string>
     <string name="basketball">basketball</string>
+    <string name="lesson1_18">Lesson1_18_Intent</string>
+    <string name="text">可接受目标页面返回内容的跳转方式</string>
+    <string name="textshow">用来显示接收到的目标页面返回的内容</string>
+    <string name="returndatatext">点击后向前一个页面返回数据</string>
 </resources>
